@@ -35,7 +35,7 @@
     "@types/prettier": "^1.15.0",
     "husky": "^1.1.4",
     "jest": "^23.6.0",
-    "lint-staged": "^8.0.5",
+    "lint-staged": "^8.1.5",
     "prettier": "^1.15.2",
     "sort-package-json": "^1.16.0",
     "ts-jest": "^23.10.4",
