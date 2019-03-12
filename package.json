@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@types/jest": "^23.3.9",
-    "@types/node": "^10.12.29",
+    "@types/node": "^10.12.30",
     "@types/prettier": "^1.15.0",
     "husky": "^1.1.4",
     "jest": "^23.6.0",
@@ -39,7 +39,7 @@
     "prettier": "^1.15.2",
     "sort-package-json": "^1.21.0",
     "ts-jest": "^23.10.4",
-    "ts-node": "^8.0.2",
+    "ts-node": "^8.0.3",
     "typescript": "^3.2.1"
   }
 }
