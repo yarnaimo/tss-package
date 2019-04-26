@@ -3,11 +3,13 @@
   "compilerOptions": {
     "target": "es2018",
     "module": "commonjs",
+    "moduleResolution": "node",
     "lib": [
       "dom",
       "dom.iterable",
       "es2018"
     ],
+    "jsx": "react",
     "declaration": true,
     "sourceMap": true,
     "outDir": "dist",
