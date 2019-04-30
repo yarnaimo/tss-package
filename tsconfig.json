@@ -1,7 +1,6 @@
 {
     "extends": "@sindresorhus/tsconfig",
     "compilerOptions": {
-        "outDir": "dist",
-        "allowSyntheticDefaultImports": false
+        "outDir": "dist"
     }
 }
