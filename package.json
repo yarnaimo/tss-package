@@ -15,19 +15,19 @@
     "ts-node": "ts-node"
   },
   "dependencies": {
-    "@sindresorhus/tsconfig": "^0.6.0",
-    "@types/jest": "^24.0.22",
+    "@sindresorhus/tsconfig": "^0.7.0",
+    "@types/jest": "^25.2.1",
     "@types/node": "10",
-    "@types/prettier": "^1.18.3",
-    "husky": "^3.0.9",
-    "jest": "^24.9.0",
-    "lint-staged": "^9.4.2",
-    "prettier": "^1.19.1",
-    "sort-package-json": "^1.23.1",
-    "ts-jest": "^24.1.0",
-    "ts-node": "^8.5.0",
-    "ts-toolbelt": "^4.10.7",
-    "type-fest": "^0.8.1",
-    "typescript": "^3.7.2"
+    "@types/prettier": "^2.0.0",
+    "husky": "^4.2.3",
+    "jest": "^25.2.7",
+    "lint-staged": "^10.1.2",
+    "prettier": "^2.0.3",
+    "sort-package-json": "^1.40.0",
+    "ts-jest": "^25.3.1",
+    "ts-node": "^8.8.2",
+    "ts-toolbelt": "^6.3.12",
+    "type-fest": "^0.13.0",
+    "typescript": "^3.8.3"
   }
 }
